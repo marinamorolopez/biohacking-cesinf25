@@ -1,5 +1,5 @@
 # biohacking-cesinf25
-This repository includes the slides of the public presentation 'Biohacking con Python' of X CESINF and both the code and files used for the practical case (slide 34 onwards).
+This repository includes the slides of the public presentation 'Biohacking con Python' of X CESINF and both the code and files used for the practical case (slide 30 onwards).
 
 ## Installation
 You simply have to download the .py and fasta files (or get your own fasta files from a database as [NCBI](https://www.ncbi.nlm.nih.gov/)).
